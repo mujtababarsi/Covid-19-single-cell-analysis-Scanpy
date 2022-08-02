@@ -1,4 +1,4 @@
 # ignore folders
 .ipynb_checkpoints
-data
+data/raw
 
